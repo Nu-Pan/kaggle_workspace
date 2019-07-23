@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.eol": "\n",
+		"terminal.integrated.env.windows": {
+			"PATH": "${workspaceRoot}\\.venv\\Scripts;${env:PATH}",
+			"PIPENV_VENV_IN_PROJECT ": "true"
+		},
+		"python.pythonPath": "${workspaceRoot}\\.venv\\Scripts\\python.exe"
+	}
+}
